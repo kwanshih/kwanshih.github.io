@@ -10,12 +10,7 @@ permalink: /about/
 
 学而不止。
 
-## 坚信
-
-* 熟能生巧
-* 努力改变人生
-
 ## 联系
 
-* GitHub：[@mzlogin](https://github.com/kwanshih)
+* GitHub：[@kwanshih](https://github.com/kwanshih)
 
