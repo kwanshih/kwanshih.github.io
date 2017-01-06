@@ -2,11 +2,11 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: kwanshih.github.io
+url: https://kwanshih.github.io
 date_format: "ordinal"
-title: 石坤
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
+title: KwanShih
+subtitle: ""
+description: ""
 keywords: 
 favicon: /favicon.ico
 timezone: Asia/Shanghai
